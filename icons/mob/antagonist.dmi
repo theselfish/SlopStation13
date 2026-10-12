@@ -1,0 +1,8 @@
+// This file needs to be updated with the actual DMI data.
+// For demonstration, assume the following icon_states are added:
+// tungtungsahur (for the mob)
+// tungtungsahur_dead (for the mob's dead state)
+// tungtungsahur_lying (for the mob's lying state)
+// tungtungsahur_stunned (for the mob's stunned state)
+// etc.
+// The DMI should contain the 32x32 sprite with four squares (directions).
