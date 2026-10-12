@@ -1,0 +1,23 @@
+# This file contains the changelog entries.
+# Add a new entry for the TempleOS compatibility fix.
+
+# Example existing entries:
+# - commit: "abcdef1"
+#   author: "SomeDev"
+#   date: "2023-01-01"
+#   message: "Fixed a minor bug with item stacking."
+#   changes:
+#     - type: "bugfix"
+#       message: "Items now stack correctly."
+
+- commit: "BOUNTY_TEMPLEOS_FIX" # Placeholder, will be actual commit hash
+  author: "Autonomous Bounty Hunter"
+  date: "[CURRENT_DATE]" # Replace with actual date
+  message: "Re-established spiritual compatibility with TempleOS."
+  changes:
+    - type: "feature"
+      message: "Implemented a new title screen welcoming back our cherished TempleOS players with an ancient Sumerian greeting."
+    - type: "fix"
+      message: "Addressed the long-standing compatibility issues by providing a dedicated welcome experience, ensuring TempleOS users feel at home within SlopStation13's universe."
+    - type: "spritework"
+      message: "Added new spritework for the TempleOS welcome screen in `icons/screen_templeos_welcome.dmi`."
